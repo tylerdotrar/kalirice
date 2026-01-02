@@ -1,14 +1,4 @@
-# CleanBuilds
-This repository is a collection of personal scripts for fresh, clean, & custom images for different Operating Systems; the intention being for these scripts to be able to run on completely fresh OS images.
-
-| OS | Status |
-| --- | --- |
-| **Kali Linux** | `Supported` |
-| **Endeavour OS** | `WIP` |
-| **Windows 10** | `WIP` |
-| **Windows 11** | `WIP` |
-
-## kali-i3
+# kalirice
 
 - **Note(s):**
   - This was heavily inspired off of [Mesumine's kali-i3-endeavour](https://github.com/Mesumine/kali-i3-endeavour) repository.
@@ -16,8 +6,8 @@ This repository is a collection of personal scripts for fresh, clean, & custom i
 
 **Installation:**
 ```shell
-git clone https://github.com/tylerdotrar/CleanBuilds
-cd CleanBuilds/kali-i3
+git clone https://github.com/tylerdotrar/kalirice
+cd kalirice/kali-i3
 chmod +x build.sh
 ./build.sh
 ```
@@ -60,14 +50,3 @@ Mod + S               = Stacked Window view (kinda ugly)
 Mod + Shift + G       = Tabbed Window View (eh)
 Mod + Shift + R       = Reload i3 Window Manager
 ```
-
-## Endeavour OS
-- ``Work-in-Progress``
-
-
-## Windows 10
-- ``Work-in-Progress``
-
-
-## Windows 11
-- ``Work-in-Progress``
